@@ -1,3 +1,0 @@
-This is file 1.
-This is file 2. this text is in file  2
-This is file 3. this text is in file  3
